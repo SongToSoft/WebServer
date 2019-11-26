@@ -6,3 +6,5 @@ Using:
 2) LocalDB
 3) Entity framework for work with database
 4) NLog for logging
+
+![image](https://github.com/TakingAway/RestServer/blob/master/Images/Image.PNG)
