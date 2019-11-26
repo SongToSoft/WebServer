@@ -1,0 +1,119 @@
+2019-11-26 21:19:20.3533|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 21:20:23.2851|INFO|Server.Controllers.HomeController|Create Employee Request
+2019-11-26 21:20:34.8463|INFO|Server.Controllers.HomeController|Delete Employee Request
+2019-11-26 21:22:42.2089|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 21:23:16.3407|INFO|Server.Controllers.HomeController|Create Employee Request
+2019-11-26 21:23:20.5995|INFO|Server.Controllers.HomeController|Delete Employee Request
+2019-11-26 21:35:48.4010|INFO|Server.Program|Logger is Configured
+2019-11-26 21:35:48.6372|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 21:38:59.2058|INFO|Server.Program|Logger is Configured
+2019-11-26 21:38:59.4267|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 21:39:15.1577|INFO|Server.Program|Logger is Configured
+2019-11-26 21:39:15.3153|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 21:39:32.7416|INFO|Server.Program|Logger is Configured
+2019-11-26 21:39:32.9147|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 21:39:43.2509|INFO|Server.Program|Logger is Configured
+2019-11-26 21:39:43.3816|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 21:40:44.7314|INFO|Server.Program|Logger is Configured
+2019-11-26 21:40:44.9366|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 22:11:34.4957|INFO|Server.Program|Logger is Configured
+2019-11-26 22:11:34.8787|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 22:50:06.1522|INFO|Server.Program|Logger is Configured
+2019-11-26 22:50:06.3833|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 22:51:53.4254|INFO|Server.Program|Logger is Configured
+2019-11-26 22:51:53.6795|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 22:52:15.2619|INFO|Server.Program|Logger is Configured
+2019-11-26 22:52:15.5935|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:13:51.0150|INFO|Server.Program|Logger is Configured
+2019-11-26 23:13:51.3839|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:14:00.3111|INFO|Server.Program|Logger is Configured
+2019-11-26 23:14:00.5329|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:16:50.3715|INFO|Server.Program|Logger is Configured
+2019-11-26 23:16:50.5606|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:17:11.7934|INFO|Server.Program|Logger is Configured
+2019-11-26 23:17:12.0053|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:17:31.9843|INFO|Server.Program|Logger is Configured
+2019-11-26 23:17:32.2315|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:19:26.6403|INFO|Server.Program|Logger is Configured
+2019-11-26 23:19:26.8404|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:19:55.6799|INFO|Server.Program|Logger is Configured
+2019-11-26 23:19:55.8173|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:20:05.1748|INFO|Server.Program|Logger is Configured
+2019-11-26 23:20:05.3192|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:20:14.3476|INFO|Server.Program|Logger is Configured
+2019-11-26 23:20:14.5009|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:34:05.6872|INFO|Server.Program|Logger is Configured
+2019-11-26 23:34:05.9013|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:35:25.4075|INFO|Server.Program|Logger is Configured
+2019-11-26 23:35:25.6109|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:37:09.9896|INFO|Server.Program|Logger is Configured
+2019-11-26 23:37:10.2072|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:40:19.8889|INFO|Server.Program|Logger is Configured
+2019-11-26 23:40:20.1051|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:41:40.7071|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-26 23:42:27.4226|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-26 23:46:13.1418|INFO|Server.Program|Logger is Configured
+2019-11-26 23:46:13.4936|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:47:05.4389|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-26 23:47:23.0722|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-26 23:47:25.8597|DEBUG|Server.Controllers.HomeController|Delete Employee Request
+2019-11-26 23:47:27.4594|DEBUG|Server.Controllers.HomeController|Delete Employee Request
+2019-11-26 23:48:56.3603|INFO|Server.Program|Logger is Configured
+2019-11-26 23:48:56.8306|INFO|Server.Program|Create Web Host Builder 
+2019-11-26 23:52:35.4365|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-27 00:03:42.6030|INFO|Server.Program|Logger is Configured
+2019-11-27 00:03:43.2107|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:08:23.0400|INFO|Server.Program|Logger is Configured
+2019-11-27 00:08:23.7283|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:15:39.0354|INFO|Server.Program|Logger is Configured
+2019-11-27 00:15:40.0384|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:19:22.9533|INFO|Server.Program|Logger is Configured
+2019-11-27 00:19:24.1296|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:21:25.8761|INFO|Server.Program|Logger is Configured
+2019-11-27 00:21:26.5827|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:23:00.8701|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-27 00:23:07.4890|DEBUG|Server.Controllers.HomeController|Delete Employee Request
+2019-11-27 00:23:11.3497|DEBUG|Server.Controllers.HomeController|Delete Employee Request
+2019-11-27 00:23:31.1365|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-27 00:27:22.2368|INFO|Server.Program|Logger is Configured
+2019-11-27 00:27:22.4954|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:31:35.6478|INFO|Server.Program|Logger is Configured
+2019-11-27 00:31:36.5855|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:32:56.3931|INFO|Server.Program|Logger is Configured
+2019-11-27 00:32:56.9010|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:33:14.8611|INFO|Server.Program|Logger is Configured
+2019-11-27 00:33:15.0068|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:34:18.4282|INFO|Server.Program|Logger is Configured
+2019-11-27 00:34:19.2125|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:36:44.9220|INFO|Server.Program|Logger is Configured
+2019-11-27 00:36:45.6031|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:38:25.4090|INFO|Server.Program|Logger is Configured
+2019-11-27 00:38:25.6533|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:39:27.4365|INFO|Server.Program|Logger is Configured
+2019-11-27 00:39:27.7490|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:41:16.0366|INFO|Server.Program|Logger is Configured
+2019-11-27 00:41:16.3957|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 00:53:56.3287|INFO|Server.Program|Logger is Configured
+2019-11-27 00:53:56.6363|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 01:01:39.1090|INFO|Server.Program|Logger is Configured
+2019-11-27 01:01:39.4465|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 01:02:02.4982|INFO|Server.Program|Logger is Configured
+2019-11-27 01:02:03.0178|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 01:32:43.8471|INFO|Server.Program|Logger is Configured
+2019-11-27 01:32:44.8642|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 01:35:53.6900|INFO|Server.Program|Logger is Configured
+2019-11-27 01:35:53.9838|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 01:39:58.7348|INFO|Server.Program|Logger is Configured
+2019-11-27 01:39:59.0280|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 01:44:28.0160|INFO|Server.Program|Logger is Configured
+2019-11-27 01:44:28.5588|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 02:01:15.2446|INFO|Server.Program|Logger is Configured
+2019-11-27 02:01:16.4365|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 02:06:55.0797|INFO|Server.Program|Logger is Configured
+2019-11-27 02:06:55.2476|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 02:12:32.6887|INFO|Server.Program|Logger is Configured
+2019-11-27 02:12:33.0831|INFO|Server.Program|Create Web Host Builder 
+2019-11-27 02:15:46.9952|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-27 02:16:12.9361|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-27 02:16:46.7194|DEBUG|Server.Controllers.HomeController|Create Employee Request
+2019-11-27 02:17:20.4964|DEBUG|Server.Controllers.HomeController|Create Employee Request

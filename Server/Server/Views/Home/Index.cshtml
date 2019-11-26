@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Employee>
+@{
+    ViewBag.Title = "All staff";
+}
+
+<a asp-action="Create">Add New Employee</a>
+
+<table class="table">
+    <tr><td>Id</td><td>Name</td><td>PersonnelNumber</td><td>Chief</td><td>Department</td></tr>
+    @foreach (var employee in Model)
+    {
+        <tr>
+            <td>@employee.Id</td>
+            <td>@employee.Name</td>
+            <td>@employee.PersonnelNumber</td>
+            <td>@employee.Chief</td>
+            <td>@employee.Department</td>
+            <td>
+                <form asp-controller="Home" asp-action="Delete" asp-route-id="@employee.Id" method="post">
+                    <div class="form-group">
+                        <input type="submit" class="btn btn-default" value="Delete" />
+                    </div>
+                </form>
+            </td>
+        </tr>
+
+    }
+</table>
+
+<h4>You can delete record just press button, or use GET request via URL, like that https://server_ip:44313/Home/Delete/{id}</h4>
