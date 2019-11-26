@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/TakingAway/RestServer.svg?branch=master)](https://travis-ci.org/TakingAway/RestServer)
+
 # RestServer
 RestServer - c# server for work with database via http request. This project was implementet for example if handle DELETE request on database.   
 
