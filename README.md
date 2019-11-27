@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/TakingAway/RestServer.svg?branch=master)](https://travis-ci.org/TakingAway/RestServer)
+[![Build Status](https://travis-ci.org/TakingAway/WebServer.svg?branch=master)](https://travis-ci.org/TakingAway/WebServer)
 
 # WebServer
 WebServer - c# server for work with database via http request. This project was implementet for example of handle DELETE request on database.   
